@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZuriAssignment</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_zuri_login_page">Welcome to Zuri login page</string>
+    <string name="peterxx_gamil_com">peterxx@gamil.com</string>
+    <string name="login_button">login button</string>
+</resources>
